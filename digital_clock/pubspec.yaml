@@ -8,6 +8,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  simple_animations: ^1.2.0
+  material_design_icons_flutter: 3.4.4595
   flutter_clock_helper:
     path: ../flutter_clock_helper
   cupertino_icons: ^0.1.2
@@ -22,3 +24,6 @@ flutter:
     - family: PressStart2P
       fonts:
         - asset: third_party/PressStart2P-Regular.ttf
+    - family: CuteFont
+      fonts:
+        - asset: third_party/CuteFont-Regular.ttf
