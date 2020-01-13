@@ -9,4 +9,4 @@ See a [live demo](https://maryx.github.io/flutter_clock) with Flutter for Web!
 
 Example [Digital Clock](digital_clock)
 
-<img src='digital_clock/android.gif' width='350'>
+<img src='android.gif' width='350'>
